@@ -1,6 +1,8 @@
 # MERIDIAN — Scroll-Driven Architectural Exhibition
 
-An Awwwards-tier, scroll-driven experience for a luxury skyscraper gated
+**[View the live site](https://shafiatulferdous.github.io/meridian-website/)** · Art direction and UI design by [Shafiatul Ferdous](https://shafiatul-ferdous.framer.website/), front end built with Claude Code.
+
+An Awwwards-style, scroll-driven experience for a luxury skyscraper gated
 community. Minimal-luxury design language (white-dominant, gold accent),
 cinematic reveals, pinned storytelling, and a hero video whose playback is
 driven **entirely by scroll** — the visitor builds the tower as they scroll.
@@ -23,8 +25,6 @@ npm run build    # typecheck + production bundle -> dist/
 npm run preview  # serve the production build on :4173
 ```
 
-> This machine had no Node.js — it was installed via `winget` (Node 24 LTS).
-> `npm` lives next to that install; a normal terminal restart puts it on PATH.
 
 ## Structure
 
